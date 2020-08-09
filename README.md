@@ -1,5 +1,5 @@
 # What-Is-This
-A hamilton path is a path in chess, which starts from one point and ends to that point with two conditions:<br>
+A hamilton path is a path in chess, which starts from one point and ends to that point (moving like horse) with two conditions:<br>
 1.Each check can be touched only one time.<br>
 2.All the checks should be touched.<br>
 
